@@ -46,7 +46,7 @@
        <iframe width="326" height="183" src="https://www.youtube.com/embed/zdf0bWGgjPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </p>
 
-   <h2>Collaboration cloud et open-source<h2>
+   <h2>Collaboration cloud et open-source</h2>
     <p>
       Enfin, Microsoft a surtout profité de l’ouverture du Build 2020 pour énoncer ses priorités actuelles. <br/>
       Hormis son désir de booster la productivité des professionnels en accentuant le nombre de possibilités de collaboration dans ses logiciels, Satya Nadella a aussi mis l’accent sur deux choses, en quelques chiffres : l’open-source et le “cloud.” <br/>
