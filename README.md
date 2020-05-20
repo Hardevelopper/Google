@@ -3,7 +3,6 @@
 <head>
 
 </head>
-<body>
      <h1 style="color:#ff1300;"> Build 2020 : Microsoft réinvente Google Docs avec Fluid Office </h1>
       <p>
         Face à la pandémie de COVID-19, Microsoft avait décidé de transformer son grand séminaire annuel pour développeurs, Build, en une série d’annonces délivrées à distance, en ligne. <br/>
@@ -64,6 +63,6 @@
    <p>
      <iframe width="326" height="183" src="https://www.youtube.com/embed/S_wNRx7f7rU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    <p/>
-</body>
+
 
 
