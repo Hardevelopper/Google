@@ -1,7 +1,7 @@
 <html>
-    <head>
+<head>
 
-    </head>
+</head>
     <body style="background-color:#ffffff;">
      <h1 style="color:#ff1300;"> Build 2020 : Microsoft réinvente Google Docs avec Fluid Office </h1>
       <p>
