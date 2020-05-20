@@ -2,7 +2,7 @@
 <head>
 
 </head>
-    <body style="background-color:#ffffff;">
+    <body>
      <h1 style="color:#ff1300;"> Build 2020 : Microsoft réinvente Google Docs avec Fluid Office </h1>
       <p>
         Face à la pandémie de COVID-19, Microsoft avait décidé de transformer son grand séminaire annuel pour développeurs, Build, en une série d’annonces délivrées à distance, en ligne. <br/>
