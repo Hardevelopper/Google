@@ -15,7 +15,7 @@
         Cette petite révolution de la collaboration bureautique sera déployée graduellement sur les versions web d’Office et d’Outlook avant de rejoindre Microsoft Teams et la version desktop d’Outlook l’an prochain. Fluid pourra même être utilisé pour certaines applications tierces, dépendantes du web.
      </p>
 
-    <h2> Multi-tasking à gogo </h2>
+    <h2>Multi-tasking à gogo</h2>
      <p>
        L’autre grande nouveauté liée à la suite logicielle Office 365 est une nouvelle application, qui aura pour vocation d’organiser votre travail sous forme de listes. <br/>
        Le très sobrement nommé Microsoft Lists sera bientôt intégré à Microsoft Teams, SharePoint et Outlook. <br/>
