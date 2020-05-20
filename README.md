@@ -37,7 +37,6 @@
    </p>
 
    <iframe width="326" height="183" src="https://www.youtube.com/embed/zdf0bWGgjPk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
    <h2> Collaboration, cloud et open-source <h2>
    <p>
       Enfin, Microsoft a surtout profité de l’ouverture du Build 2020 pour énoncer ses priorités actuelles. <br/>
@@ -51,7 +50,5 @@
       Microsoft développerait effectivement le “premier super-calculateur intelligent dans le cloud” en collaboration avec la société OpenAI d’Elon Musk. <br/>
       Si le monde reste plus ou moins confiné, Microsoft a déjà la tête dans les nuages.
   </p>
-       
   <iframe width="326" height="183" src="https://www.youtube.com/embed/S_wNRx7f7rU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 </html>
